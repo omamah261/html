@@ -1,0 +1,20 @@
+html {
+    background-color: rgb(20, 2, 36);
+}
+body { 
+    color: burlywood;
+}
+nav {
+    text-align: center;
+}
+a{
+    color: rgb(177, 128, 142);
+}
+h1 {
+    color: rgb(98, 148, 189);
+}
+.centralized{
+    text-align: center;
+}
+
+
